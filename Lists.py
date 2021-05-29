@@ -1,3 +1,14 @@
+#Perform all sorts of functions on the list and get an easy wasy to learn lists.
+#insert i e: Insert integer e at position i.
+#print: Print the list.
+#remove e: Delete the first occurrence of integer e.
+#append e: Insert integer e at the end of the list.
+#sort: Sort the list.
+#pop: Pop the last element from the list.
+#reverse: Reverse the list.
+
+
+#Code strating from here 
 N = int(input())
 L=[]
 for i in range(0,N):
