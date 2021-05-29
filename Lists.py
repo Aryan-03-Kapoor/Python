@@ -7,7 +7,6 @@
 #pop: Pop the last element from the list.
 #reverse: Reverse the list.
 
-
 #Code strating from here 
 N = int(input())
 L=[]
